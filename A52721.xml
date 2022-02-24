@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the people of the Lord every where, gathered or scattered</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52721</idno>
+            <idno type="STC">Wing N320</idno>
+            <idno type="STC">ESTC R32299</idno>
+            <idno type="EEBO-CITATION">12623892</idno>
+            <idno type="OCLC">ocm 12623892</idno>
+            <idno type="VID">64608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64608)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1532:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the people of the Lord every where, gathered or scattered</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Conversion.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:64608:1"/>
+            <!-- PDF PAGE 34 -->
+            <pb n="1" facs="tcp:64608:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <head>TO ALL THE People of the LORD, EVERY WHERE, <hi>Gathered or Scattered.</hi>
+            </head>
+            <p>IN the Fear of God, and Love to his Truth, and People do I declare, in the Spirit of Meekneſs, what hath long oppreſſed my Soul, concerning thoſe Unclean Spirits gone out from the Unity of the Truth and Light, by which we have been called, and gathered into one in Chriſt Jeſus, the Head over all his Bleſſed for ever, whoſe Name hath been greatly diſhonoured through many wild Actings, and his Innocent Spirit grieved, and many ſimple Souls deceived; many opreſſed, and many of<g ref="char:EOLhyphen"/>fended againſt the Truth; becauſe of thoſe Spirits gone out from the Truth, and now ſecretly, under a pretence, ſeeks dayly to make it odious to all. (For which Work my Soul hath been much troubled:) Who to this Day raven about from Place to Place amongſt the People of God, ſeeking to enter where they can; and ſo to ſtrengthen themſelves into Parties, to trouble ſuch as they cannot enter, ſeeking to ſpoil the peaceable Paſture of the Lambs, that they ſhould not Feed in Peace: And for that end, hunt after the Meetings of the People of God. All which Practiſes and Pretences, I deny in my Soul, and that Spirit that acts therein.</p>
+            <pb n="2" facs="tcp:64608:2"/>
+            <!-- PDF PAGE 35 -->
+            <p>And the more it lies upon me from the Lord, to warn the ſimple innocent ones of his thereof openly, in that thorough me theſe Spirits have got much Head and Entrance into the Minds of ſome who were ſimple towards God's Truth: And this the Envious One hath done, in the Night of my Tryal, and Hour of Darkneſs and Temptation, taking Advantage at my Suffer<g ref="char:EOLhyphen"/>ings, in the Day when my Judgment was taken away, and I led Captive under the Power of Darkneſs, which all along hath ſought my life, had not the Father hid it, and with his Hand upon me, ſtayed me in thoſe great Temptations; to whom alone I give the Glory of my Deliverance from that great De<g ref="char:EOLhyphen"/>ſtruction, as his Promiſe was to me before I came into that Tryal; who hath now brought me up again, and hath given me to ſee thoſe Evil Spirits, and that the Work of the Mur<g ref="char:EOLhyphen"/>therer and Devourer is therein, againſt the Life of God in his Temple: Which, though they ſeek Entrance under pretence of Humility, promiſing ſome great things, and more Holineſs in that way, to ſteal into ſimple Minds; but being got in, exalts themſelves above the Seed of God, and Tramples the Meek Spirit under Foot, and ſo darkens the Veſſels, and being exalted in the Openings of the Imaginations, leads the Creature, (as God) above that of God, and ſo againſt that of God; he warrs in others, where God is above.</p>
+            <p>And this Myſtery of deep Iniquity hath the Lord God in the Spirit of the Lamb revealed unto me, whoſe powerful working I have found, working in me above the pure Meaſure and Un<g ref="char:EOLhyphen"/>ſpotted Life of God. And though in the Simplicity of Chriſt Jeſus, I had given up my Body all along, a Free Offering to the Will of God in Life, or in Death, for the Seeds ſake; yet un<g ref="char:EOLhyphen"/>gathered in the World; (as God knoweth I lye not) yet could I often feel that exalted One above, ſecretly tempting to Envy againſt the People of God already gathered, pretending a greater thing to come another Way; but this, with the Life of God was ever Judged. Though often I was buffeted therewith, ſometimes ſo ſtrongly, as to force Words from me, above the meek and lowly Principle: All which Words were ſoon judged, with the ſufferer which lay under, and with his life be they Condemned for ever.</p>
+            <pb n="3" facs="tcp:64608:2"/>
+            <!-- PDF PAGE 35 -->
+            <p>And this lyes upon me to declare openly, which God hath revealed to me, for the ſake of the ſimple Ones, who may be deceived therewith, but would not, did they know his Subtilty; And by this ſhall you all perceive that Spirit, whatever it pre<g ref="char:EOLhyphen"/>tends, it will ſecretly withdraw your entire Love from the Flock of God, already gathered, and cool your Affections and Zeal towards their preſent Meetings, and if you judge it not there, it will grow on with an Evil Eye, to ſpy out their Failings, and delight to hear of them, and talk of them, with an hidden Joy, whiſpering them to others, and adding thereunto, with a deſire to ſee them broken, and their Nakedneſs laid open, if any thing be amiſs: And thus it hath wrought in a Myſtery of Wickedneſs in ſome Unjudged, until it be ſeated in the Throne of open Enmity and Strife againſt the Lambs of Chriſt; preferring the Society of the Prophane before them, and taking Part there<g ref="char:EOLhyphen"/>with againſt them, joining with any who ſeek to ſcatter them. And what ever pretence this Spirit ſeeks to cover it ſelf with, this I declare of it, (having been kept by the good Hand of God, to ſee it reveal'd in its Ground and End) that it is the Old Spi<g ref="char:EOLhyphen"/>rit of the <hi>Ranters,</hi> which now in a new Way makes Head againſt the Light of Chriſt, and Life of his Croſs; which is the only thing that ſtands in its Way, by condemning its Filthineſs in every Conſcience: And ſo they, in whom this is Entered, being exalted above the Living Witneſs in themſelves, would devour it in others.</p>
+            <p>And this in the Preſence and Fear of God I declare, without the leaſt Prejudice againſt the Perſon of any man or Woman; but in Obedience to God, and for the Seeds ſake, leſt any more of the ſimple ſhould be deceived, and that ſuch as are deceived al<g ref="char:EOLhyphen"/>ready, might recover themſelves out of Satan's Snares; no ſelfiſh End have I in it, God knoweth. And long time hath my Soul been in travail, e'er I could obtain Power herein, ſo ſtrongly hath he that letteth withſtood my Way.</p>
+            <p>Therefore in the Bowels of tender Love, I warn you all, to take heed how you ever come under that Spirit under any pretence whatſoever; but let the Fear of God, and ſound Judgment in the Spirit of Meekneſs, you all preſerve above it; for whereſo<g ref="char:EOLhyphen"/>ever it enters by conſent, it is hardly got out again: And if it
+<pb n="4" facs="tcp:64608:3"/>
+               <!-- PDF PAGE 36 -->be, it is not without much Sorrow: And this I have found in the Depth, which for your ſakes I declare in Plainneſs and Truth, as I have learned of the Lord, labouring with him with<g ref="char:EOLhyphen"/>out ceaſing, that the reſt of the People of God every where may be ſaved from this Devourer, who goeth dayly about to deceive, and whoſoever he takes, he caſts into the Earth, or into the Sea; for Wickedneſs is with him whereſoever he goeth.</p>
+            <p>Even the Lord God Almighty arm you all againſt his Wiles, being warned thereof in his Love, and the Eternal Power of Holineſs you all preſerve clean to Himſelf, who are dearer unto me than ever, and that in no other thing, but in that Innocent Principle in which you are kept free from all the Pollutions of the World, and Fleſhly Liberty, and ſtand Witneſſes for God againſt it, before all Men, and in no other thing have I fellow<g ref="char:EOLhyphen"/>ſhip with any, which is that I ſeek to ſet up above all.</p>
+            <p>And this was I moved to give forth, to go every where, as a Witneſs againſt that unclean Spirit where ever it goes, feeling its Work is to run to and fro to deceive; that all may be warn<g ref="char:EOLhyphen"/>ed by what I have learned in Sufferings, and they that will not may be left without excuſe.</p>
+            <closer>
+               <signed>JAMES NAYOR.</signed>
+               <dateline>Written in <hi>Bridewell,</hi>
+                  <date>about the Beginning of 1658.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+            <pb facs="tcp:64608:3"/>
+            <!-- PDF PAGE 36 -->
+         </div>
+      </back>
+   </text>
+</TEI>
